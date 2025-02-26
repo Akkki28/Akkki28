@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**Akkki28/Akkki28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akshat Rana, an aspiring Machine Learning Engineer passionate about:  
+- 🧠 **Reinforcement Learning**  
+- 🗣️ **Natural Language Processing**  
+- 👁️ **Computer Vision**  
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems that learn and adapt!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Akkki28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akkki28&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkki28&layout=compact&theme=radical)
+
+---
+
+Let's connect and collaborate on exciting ML projects! 🚀
